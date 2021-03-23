@@ -6,3 +6,5 @@ If you decide to add me to a git I can help do some stuff when needed.
 ### What I'm Working On Right Now:
 * CumHack (1.12.2 Anarchy Client)
 * Other small single module projects that I will upload to my github.
+[![Gerald0mc's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerald0mc)](https://github.com/anuraghazra/github-readme-stats)
+
