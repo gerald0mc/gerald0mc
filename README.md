@@ -5,7 +5,7 @@ I dont really do much I just code clients sometimes :/
 If you decide to add me to a git I can help do some stuff when needed.
 ### What I'm Working On Right Now:
 * CumHack (1.12.2 Anarchy Client) //kinda dead but meh
-* BasedHack (1.12.2 Anarchy Client) //not started but will start when I can
+* Notorious (1.12.2 Anarchy Client) //join the discord https://discord.gg/nPBPJRcuqP :)
 * Other small single module projects that I will upload to my github.
 
 ![Gerald0mc's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerald0mc&show_icons=true&theme=tokyonight)
