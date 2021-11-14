@@ -1,7 +1,7 @@
 # Gerald0mc on top 💪
 ^ this
 ### About me:
-All I do is code and play Minecraft. I havge some java knowledge but no experience in any other language.
+All I do is code and play Minecraft. I have some java knowledge but no experience in any other language.
 ### Stuff I Have Worked On/Currently Working On:
 * CumHack (1.12.2 Anarchy Client) //deader than dead
 * Notorious (1.12.2 Anarchy Client) //dead
