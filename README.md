@@ -1,8 +1,7 @@
 # Gerald0mc on top 💪
 ^ this
 ### About me:
-I dont really do much I just code clients sometimes :/
-If you decide to add me to a git I can help do some stuff when needed.
+All I do is code and play Minecraft. I havge some java knowledge but no experience in any other language.
 ### Stuff I Have Worked On/Currently Working On:
 * CumHack (1.12.2 Anarchy Client) //deader than dead
 * Notorious (1.12.2 Anarchy Client) //dead
