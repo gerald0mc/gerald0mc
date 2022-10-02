@@ -15,7 +15,7 @@ All I do is code and play games. I have some java knowledge and I have tried to 
 * Salt (1.8.8 Client)
 * JustAnotherEconomyPlugin (Server plugin)
 * Bandito (1.12.2 Anarchy Client)
-* GeraldBot (1.12.2 
+* GeraldBot (1.12.2 Standalone Chat Bot)
 * Other small single module projects that I will upload to my github.
 
 ![Gerald0mc's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerald0mc&show_icons=true&theme=tokyonight)
